@@ -1,4 +1,4 @@
-# Retail Transaction Dashboard & Customer Analysis
+# Dashboard Customer Revenue Insight using Transaction Data
 
 This project is part of my E-Learning journey at MySkill (January 2025), focusing on analyzing retail transaction data and building an interactive dashboard to generate business insights.
 
